@@ -50,11 +50,9 @@
 
 ###
 
-<div align="left">
-  <img src="https://profile-counter.glitch.me/kaka-bip/count.svg?"  />
-</div>
 
-###
+
+
 
 ###
 
