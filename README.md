@@ -13,7 +13,7 @@
 <img align="center" height="180" src="https://th.bing.com/th/id/R.0dae54a91ebefe6dcd0dd2250ffb4aa7?rik=ROX7Ym%2fXkjFnnA&pid=ImgRaw&r=0"  />
 
 ###
-
+<h1>Habilidades Principais:</h1>
 <div align="left">
   <img src="https://skillicons.dev/icons?i=js" height="30" alt="javascript logo"  />
   <img width="12" />
@@ -21,11 +21,24 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=css" height="30" alt="css3 logo"  />
   <img width="12" />
+
+   ### 
+   <h1>Ferramentas:</h1>
   <img src="https://skillicons.dev/icons?i=github" height="30" alt="github logo"  />
-  <img width="12" />
   <img src="https://skillicons.dev/icons?i=vscode" height="30" alt="vscode logo"  />
+   <img src="https://skillicons.dev/icons?i=git" height="30" alt="git"  />
 </div>
 
+
+###
+
+<h1>Estudando no momento:</h1>
+<div>
+<img src="https://skillicons.dev/icons?i=javascript" height="30" alt="javascript"  />
+<img src="https://skillicons.dev/icons?i=css" height="30" alt="css"  />
+
+ 
+</div>
 
 ###
 
