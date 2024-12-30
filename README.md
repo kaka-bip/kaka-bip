@@ -1,6 +1,6 @@
 
    <h1 align="center">
-        <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=olá!+👋;+me+chamo+Kauan!;+Sou+Desenvolvedor+Front-end;"/>
+        <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Opa!+👋;+Meu+Nome+e+Kauan!;+Sou+Dev+web+Front-end;+Bem-vindo+ao+meu+Repository;"/>
         </h1>
 
 <div align="left">
@@ -56,7 +56,7 @@
 
 ###
 
-<div align="left">
+<div align="center">
   <img src="https://streak-stats.demolab.com?user=kaka-bip&locale=en&mode=daily&theme=radical&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=kaka-bip&radius=16&theme=redical&area=true&order=5&hide_border=true&hide_title=false" height="300" alt="activity-graph graph"  />
 </div>
