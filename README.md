@@ -36,7 +36,7 @@
 <div>
 <img src="https://skillicons.dev/icons?i=javascript" height="30" alt="javascript"  />
 <img src="https://skillicons.dev/icons?i=css" height="30" alt="css"  />
-
+<img src="https://skillicons.dev/icons?i=wordpress" height="30" alt="wordpress"  />
  
 </div>
 
