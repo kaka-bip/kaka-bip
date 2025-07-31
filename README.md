@@ -52,9 +52,6 @@
 </div>
 
 ###
-   ![Snake animation](https://github.com/kaka-bip/kaka-bip/blob/output/github-contribution-grid-snake.svg)
-###
-
 <div align="center" margin="auto">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=kaka-bip&radius=16&theme=redical&area=true&order=5&hide_border=true&hide_title=false" height="300" alt="activity-graph graph"  />
 </div>
