@@ -1,0 +1,22 @@
+# .github/workflows/commit.yml
+name: Snake Commit
+
+on:
+  schedule:
+    - cron: '0 12 * * *' # todo dia às 12h
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Fake commit
+        run: |
+          git config --global user.email "seuemail@exemplo.com"
+          git config --global user.name "kaka-bip"
+          git clone https://github.com/kaka-bip/kaka-bip
+          cd kaka-bip
+          date >> data.txt
+          git add .
+          git commit -m "Commit diário automático"
+          git push
