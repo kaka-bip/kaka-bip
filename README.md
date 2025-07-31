@@ -1,4 +1,9 @@
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&color=FFFFFF&lines=Hello+me+chamo+kauan;Sou+Dev+Web;Sou+Front+End" />
+</h1>
 
+
+###
    <h1 align="center" margin="auto">
       <div>
       <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExNTBlMGxxOXNreXNld3Q4OXo4dzgzNGMyZTl5am13d2IxbmQ4MXg1aCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qrvyxMu3zhG8KXgHdm/giphy.gif" height="180"/>
@@ -11,9 +16,6 @@
 </div>
 
 ###
-
-<img align="center" height="180"  margin="auto" src="https://th.bing.com/th/id/R.0dae54a91ebefe6dcd0dd2250ffb4aa7?rik=ROX7Ym%2fXkjFnnA&pid=ImgRaw&r=0"  />
-
 ###
 <h1 align="center">Habilidades Principais:</h1>
 <div align="center">
@@ -50,22 +52,17 @@
 </div>
 
 ###
-
-
-
-
-
+   ![Snake animation](https://github.com/kaka-bip/kaka-bip/blob/output/github-contribution-grid-snake.svg)
 ###
 
 <div align="center" margin="auto">
-  <img src="https://streak-stats.demolab.com?user=kaka-bip&locale=en&mode=daily&theme=radical&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=kaka-bip&radius=16&theme=redical&area=true&order=5&hide_border=true&hide_title=false" height="300" alt="activity-graph graph"  />
 </div>
 
 ###
 
 <h1 align="center">
-<img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=obrigado+pela+atenção!;" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&color=FFFFFF&lines=obrigado+pela+atenção!" />
 </h1>
 
 ###
