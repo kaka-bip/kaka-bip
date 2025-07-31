@@ -1,22 +1,35 @@
-# .github/workflows/commit.yml
-name: Snake Commit
+name Generate Snake Animation
 
-on:
-  schedule:
-    - cron: '0 12 * * *' # todo dia às 12h
-  workflow_dispatch:
+on
+  schedule
+    - cron 0 0    # roda todo dia à meia-noite UTC
+  workflow_dispatch
 
-jobs:
-  build:
-    runs-on: ubuntu-latest
-    steps:
-      - name: Fake commit
-        run: |
-          git config --global user.email "seuemail@exemplo.com"
-          git config --global user.name "kaka-bip"
-          git clone https://github.com/kaka-bip/kaka-bip
-          cd kaka-bip
-          date >> data.txt
-          git add .
-          git commit -m "Commit diário automático"
-          git push
+jobs
+  build
+    name Generate Snake
+    runs-on ubuntu-latest
+
+    steps
+      - uses actionscheckout@v3
+      - uses Platanesnk@v3
+        with
+          github_user_name kaka-bip
+          outputs 
+            .distgithub-contribution-grid-snake.svg
+
+      - name Commit and push
+        uses EndBugadd-and-commit@v9
+        with
+          author_name kaka-bip
+          author_email kaka@email.com
+          message 'generate snake'
+          add 'dist.svg'
+
+      - name Push to output branch
+        uses crazy-maxghaction-github-pages@v3
+        with
+          target_branch output
+          build_dir dist
+        env
+          GITHUB_TOKEN ${{ secrets.GITHUB_TOKEN }}
