@@ -42,7 +42,8 @@
 <img src="https://skillicons.dev/icons?i=react" height="30" alt="react logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=nodejs" height="30" alt="nodejs logo"  />
-img src="https://skillicons.dev/icons?i=ts" height="30" alt="typescript logo"  />
+<img src="https://skillicons.dev/icons?i=ts" height="30" alt="typescript logo"  />
+  <img width="12" />
 </div>
 
 ###
