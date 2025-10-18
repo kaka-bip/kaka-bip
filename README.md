@@ -23,9 +23,7 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=css" height="30" alt="css3 logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=react" height="30" alt="react logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=nodejs" height="30" alt="nodejs logo"  />
+
 </div>
 
 ###
@@ -41,6 +39,9 @@
 <h1 align="center">Estudando no momento:</h1>
 <div align="center">
   <img src="https://skillicons.dev/icons?i=js" height="30" alt="javascript logo"  />
+<img src="https://skillicons.dev/icons?i=react" height="30" alt="react logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=nodejs" height="30" alt="nodejs logo"  />
 </div>
 
 ###
