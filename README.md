@@ -10,7 +10,15 @@
 </h1>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=kaka-bip&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=radical&hide_border=false&order=2" height="150" alt="languages graph"  />
+  <a href="https://git.io/streak-stats">
+    <img src="https://git-hub-streak-stats.vercel.app?user=kaka-bip&theme=radical&hide_border=true&border_radius=20&locale=pt_BR&card_width=500" alt="GitHub Streak" />
+  </a>
+</div>
+ 
+<div align="center">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img width="355" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaka-bip&layout=compact&title_color=fff&text_color=5157d2&bg_color=0d1117&count_private=true"/>
+  </a>
 </div>
 
 ###
