@@ -1,7 +1,7 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=fff&height=180&section=header&text=Kauan-Santos&fontSize=30&fontColor=black&animation=twinkling&fontAlignY=35"/> 
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&color=blue&lines=Hello+me+chamo+kauan;Sou+Dev+Web" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&color=blue&lines=Hello+me+chamo+kauan;Sou+front-end!" />
 </h1>
 
 ###
