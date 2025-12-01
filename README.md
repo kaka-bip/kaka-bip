@@ -1,13 +1,10 @@
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=fff&height=180&section=header&text=Kauan-Santos&fontSize=30&fontColor=black&animation=twinkling&fontAlignY=35"/> 
+
 <h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&color=blue&lines=Hello+me+chamo+kauan;Sou+Dev+Web" />
 </h1>
 
 ###
-<h1 align="center" margin="auto">
-  <div>
-    <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExNTBlMGxxOXNreXNld3Q4OXo4dzgzNGMyZTl5am13d2IxbmQ4MXg1aCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qrvyxMu3zhG8KXgHdm/giphy.gif" height="180"/>
-  </div>
-</h1>
 
 <div align="center">
   <a href="https://git.io/streak-stats">
@@ -77,3 +74,5 @@
 <h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&color=green&lines=obrigado+pela+atenção!" />
 </h1>
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=fff&height=120&section=footer"/>
