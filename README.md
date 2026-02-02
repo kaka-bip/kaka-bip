@@ -1,7 +1,7 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=fff&height=180&section=header&text=Kauan-Santos&fontSize=30&fontColor=black&animation=twinkling&fontAlignY=35"/> 
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&color=blue&lines=Hello+me+chamo+kauan;Sou+front-end!" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&color=blue&lines=Hello+me+chamo+kauan!;Sou+dev+Full-Stack!" />
 </h1>
 
 ###
@@ -35,20 +35,18 @@
 <div align="center">
   <img src="https://skillicons.dev/icons?i=github" height="30" alt="github logo"  />
   <img src="https://skillicons.dev/icons?i=vscode" height="30" alt="vscode logo"  />
-  <img src="https://skillicons.dev/icons?i=git" height="30" alt="git"/>
-  <img src="https://skillicons.dev/icons?i=Windows" height="30" alt="Windows"/>
+  <img src="https://skillicons.dev/icons?i=git" height="30" alt="git" />
+  <img src="https://skillicons.dev/icons?i=Windows" height="30" alt="Windows" />
+  <img src="https://skillicons.dev/icons?i=notion" height="30" alt="notion" />
 </div>
 
 ###
 <h1 align="center">Estudando no momento:</h1>
 <div align="center">
   <img src="https://skillicons.dev/icons?i=js" height="30" alt="javascript logo"  />
-<img src="https://skillicons.dev/icons?i=react" height="30" alt="react logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=nodejs" height="30" alt="nodejs logo"  />
-<img src="https://skillicons.dev/icons?i=ts" height="30" alt="typescript logo"  />
-  <img width="12" />
 <img src="https://skillicons.dev/icons?i=php" height="30" alt="php logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=mysql" height="30" alt="mysql logo"  />
   <img width="12" />
 </div>
 
